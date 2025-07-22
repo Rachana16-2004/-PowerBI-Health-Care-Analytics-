@@ -5,13 +5,13 @@ This project explores the early onset of heart disease and mental health dispari
 Cardiovascular diseases (CVDs) are the leading cause of death in India, with heart attacks being a major contributor. Cases are often diagnosed at younger ages compared to Western countries. This analysis focuses on identifying key medical and lifestyle risk factors—such as diabetes, obesity, smoking, pollution, and healthcare access—while highlighting urban-rural disparities. The goal is to develop predictive models for early detection and provide insights to improve healthcare interventions in India.
 
 ## 📊Health Data Visual Insights
-Donut Chart:
+## Donut Chart:
 Visualizes heart disease distribution across age groups and genders.
 
-Clustered Bar Chart:
+## Clustered Bar Chart:
 Shows heart attack cases across Indian states, highlighting regional disparities.
 
-Stacked Column Chart:
+** Stacked Column Chart:**
 Displays the total and individual contributions of key health indicators.
 
 Funnel Chart:
