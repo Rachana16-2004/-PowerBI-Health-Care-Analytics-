@@ -36,6 +36,7 @@ Summarizes the total number of patients for quick reference.
 ## 🖼 Sample Dashboard
 
 ![Health Care Dashboard](https://github.com/Rachana16-2004/-PowerBI-Health-Care-Analytics-/blob/main/Screenshot%202025-07-22%20220828.png?raw=true)
+![](C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2025-07-30 202236.png)
 
 ---
 
