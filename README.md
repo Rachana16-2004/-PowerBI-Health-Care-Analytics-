@@ -50,4 +50,3 @@ Summarizes the total number of patients for quick reference.
 - Government health policy planning
 - Hospital risk stratification
 - Preventive care strategies
-
