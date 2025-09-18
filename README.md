@@ -4,7 +4,7 @@ This project explores the early onset of heart disease and mental health dispari
 
 Cardiovascular diseases (CVDs) are the leading cause of death in India, with heart attacks (myocardial infarctions) contributing significantly to the mortality rate. Unlike Western countries, these conditions often emerge at younger ages in India. Urban-rural disparities, lifestyle variations, and access to healthcare further complicate the issue.
 
-The objective of this analysis is to:
+The objective of this analysis is to: 
 - Identify risk factors contributing to early onset of heart disease.
 - Develop predictive models for early detection.
 - Provide actionable insights to guide healthcare interventions and policy-making.
