@@ -7,7 +7,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death in India, with hea
 The objective of this analysis is to:   
 - Identify risk factors contributing to early onset of heart disease.
 - Develop predictive models for early detection.
-- Provide actionable insights to guide healthcare interventions and policy-making.
+- Provide actionable insights to guide healthcare interventions and policy-making. 
 
 ---
 
